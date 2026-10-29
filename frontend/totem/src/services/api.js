@@ -36,7 +36,7 @@ async function request(path, options = {}) {
  * @returns {Promise<Array>} Lista de produtos.
  */
 export async function fetchProducts() {
-  return request('/api/products');
+  return request('/api/products?available=true');
 }
 
 /**
