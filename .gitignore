@@ -4,6 +4,10 @@ node_modules/
 # Variáveis de ambiente
 .env
 
+# Imagens enviadas pelos usuários
+api/uploads/*
+!api/uploads/.gitkeep
+
 # Logs
 *.log
 npm-debug.log*
