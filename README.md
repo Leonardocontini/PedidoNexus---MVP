@@ -1,3 +1,39 @@
+## Iniciar o projeto
+
+**Linux / macOS**
+
+```bash
+bash init.sh
+```
+
+**Windows**
+
+```bat
+init.bat
+```
+
+Esses scripts sobem o banco de dados e a API via Docker Compose e instalam as dependências dos frontends caso ainda não estejam instaladas.
+
+---
+
+## Encerrar o projeto
+
+**Linux / macOS**
+
+```bash
+bash close.sh
+```
+
+**Windows**
+
+```bat
+close.bat
+```
+
+Esses scripts param todos os containers Docker e encerram os servidores de desenvolvimento dos frontends.
+
+---
+
 # PedidoNexus — MVP
 
 Sistema de pedidos para restaurantes e lanchonetes. Desenvolvido como MVP com totem de autoatendimento para clientes e painel operacional para a equipe do restaurante.
