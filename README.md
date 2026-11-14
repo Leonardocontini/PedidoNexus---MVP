@@ -4,7 +4,7 @@ Sistema de pedidos para restaurantes e lanchonetes. Desenvolvido como MVP com to
 
 ---
 
-## Iniciar o projeto
+## Iniciar o projeto (Dentro da pasta "/init")
 
 **Linux / macOS**
 
@@ -22,7 +22,7 @@ Esses scripts sobem o banco de dados e a API via Docker Compose e instalam as de
 
 ---
 
-## Encerrar o projeto
+## Encerrar o projeto (Dentro da pasta "/init")
 
 **Linux / macOS**
 
