@@ -1,3 +1,9 @@
+# PedidoNexus — MVP
+
+Sistema de pedidos para restaurantes e lanchonetes. Desenvolvido como MVP com totem de autoatendimento para clientes e painel operacional para a equipe do restaurante.
+
+---
+
 ## Iniciar o projeto
 
 **Linux / macOS**
@@ -34,11 +40,6 @@ Esses scripts param todos os containers Docker e encerram os servidores de desen
 
 ---
 
-# PedidoNexus — MVP
-
-Sistema de pedidos para restaurantes e lanchonetes. Desenvolvido como MVP com totem de autoatendimento para clientes e painel operacional para a equipe do restaurante.
-
----
 
 ## Visão geral
 
